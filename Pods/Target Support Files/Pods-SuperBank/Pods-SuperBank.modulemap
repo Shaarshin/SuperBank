@@ -1,0 +1,6 @@
+framework module Pods_SuperBank {
+  umbrella header "Pods-SuperBank-umbrella.h"
+
+  export *
+  module * { export * }
+}
